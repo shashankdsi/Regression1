@@ -9,7 +9,7 @@
 #make predictions
 ----------
   
-#  RIDGE
+#  RIDGE Algorithm
 
 # create traincontrol(Cross validation)
 
